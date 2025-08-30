@@ -1,8 +1,10 @@
 {
-  "name": "react-portfolio",
+  "name": "snehauppula-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Sneha Uppula's AI/ML Portfolio - Showcasing projects, skills, and achievements in data science and machine learning",
+  "author": "Sneha Uppula",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -40,5 +42,20 @@
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3",
     "vite": "^5.2.0"
-  }
+  },
+  "keywords": [
+    "portfolio",
+    "ai-ml",
+    "data-science",
+    "react",
+    "student",
+    "hackathon",
+    "python",
+    "machine-learning"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snehauppula/react-portfolio.git"
+  },
+  "homepage": "https://snehauppula.dev"
 }

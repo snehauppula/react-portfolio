@@ -1,12 +1,12 @@
-# React Portfolio 🚀
+# Sneha Uppula - AI/ML Portfolio 🚀
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://liuyuelin.dev)
-[![Stars](https://img.shields.io/github/stars/liuyuelintop/react-portfolio?style=social)](https://github.com/liuyuelintop/react-portfolio/stargazers)
-[![Portfolio Version](https://img.shields.io/badge/Version-Phase%207-success?style=flat-square)](https://github.com/liuyuelintop/react-portfolio)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://snehauppula.dev)
+[![Stars](https://img.shields.io/github/stars/snehauppula/react-portfolio?style=social)](https://github.com/snehauppula/react-portfolio/stargazers)
+[![Portfolio Version](https://img.shields.io/badge/Version-Phase%207-success?style=flat-square)](https://github.com/snehauppula/react-portfolio)
 
 ---
 
-An innovative, interactive portfolio crafted with cutting-edge React 18 technology, featuring smooth Framer Motion animations and elegant Tailwind CSS styling. This showcase presents my professional journey through dynamic project galleries, animated skill visualizations, and an intelligent AI career assistant. Built with enterprise-level architecture, accessibility-first design, and optimized performance for an exceptional user experience across all devices.
+An innovative, interactive portfolio showcasing Sneha Uppula's journey in AI/ML and data science. Built with cutting-edge React 18 technology, featuring smooth Framer Motion animations and elegant Tailwind CSS styling. This showcase presents her academic achievements, AI/ML projects, hackathon wins, and contributions to the tech community through dynamic project galleries, animated skill visualizations, and an intelligent AI career assistant.
 
 ![Portfolio Screenshot](./src/assets/og-image.png)
 
@@ -27,7 +27,7 @@ An innovative, interactive portfolio crafted with cutting-edge React 18 technolo
 - **Accessibility:** Perfect 100 scores with WCAG AA compliance
 - **Modern Standards:** Exceeds accessibility and SEO requirements
 
-> [View Desktop Report](https://pagespeed.web.dev/analysis/https-www-liuyuelin-dev/df2ampev8u?form_factor=desktop) | [View Mobile Report](https://pagespeed.web.dev/analysis/https-www-liuyuelin-dev/df2ampev8u?form_factor=mobile)
+> [View Desktop Report](https://pagespeed.web.dev/analysis/https-www-snehauppula-dev/df2ampev8u?form_factor=desktop) | [View Mobile Report](https://pagespeed.web.dev/analysis/https-www-snehauppula-dev/df2ampev8u?form_factor=mobile)
 
 ---
 
@@ -49,10 +49,10 @@ An innovative, interactive portfolio crafted with cutting-edge React 18 technolo
 
 ### 💼 **Content Sections**
 - **AI Assistant:** Interactive Hugging Face-powered chatbot with career information and project insights
-- **Experience Timeline:** Modern card-based layout with expandable details
-- **Project Gallery:** Revolutionary 3-component system with clean cards, tabbed modals, and adaptive live previews
+- **Experience Timeline:** Academic journey with achievements and milestones
+- **Project Gallery:** AI/ML projects with detailed descriptions and technology stacks
 - **Skills Visualization:** Interactive charts with proficiency levels and project counts
-- **Professional References:** Elegant carousel with testimonials and LinkedIn integration
+- **Professional References:** Academic and professional testimonials
 - **Contact Forms:** Professional contact system with project type categorization
 
 ### 🚀 **Advanced Features**
@@ -98,7 +98,7 @@ An innovative, interactive portfolio crafted with cutting-edge React 18 technolo
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/liuyuelintop/react-portfolio.git
+git clone https://github.com/snehauppula/react-portfolio.git
 cd react-portfolio
 ```
 
@@ -107,218 +107,63 @@ cd react-portfolio
 npm install
 ```
 
-### 3. Environment Configuration
-Create a `.env` file in the root directory:
-```env
-VITE_GOOGLE_FOLDER_ID=your_google_drive_folder_id
-VITE_GOOGLE_API_KEY=your_google_api_key
-VITE_GITHUB_USERNAME=your_github_username
-```
-
-### 4. Development Server
+### 3. Start Development Server
 ```bash
 npm run dev
 ```
-Visit [http://localhost:5173](http://localhost:5173) to see your portfolio.
 
-### 5. Production Build
+### 4. Build for Production
 ```bash
 npm run build
-npm run preview  # Preview production build locally
 ```
 
 ---
 
-## 🏗️ Project Architecture
+## 🎯 About Sneha Uppula
 
-### **Organized Component Structure**
-```
-src/
-├── components/
-│   ├── layout/              # Navigation & layout components
-│   │   ├── Navbar/         # Active navigation with scroll detection
-│   │   └── FloatingNavigation/
-│   ├── sections/           # Main content sections
-│   │   ├── Hero/           # Landing section with grid layout
-│   │   ├── Chatbot/        # AI Assistant section integration
-│   │   ├── CareerChatbot/  # Interactive AI chatbot component
-│   │   ├── Experience/     # Professional timeline
-│   │   ├── Skills/         # Interactive skills visualization
-│   │   ├── Projects/       # Project gallery with live previews
-│   │   ├── References/     # Professional testimonials
-│   │   ├── Contact/        # Contact forms and information
-│   │   ├── PersonalBranding/
-│   │   └── GitHubActivity/
-│   └── ui/                 # Reusable UI components
-│       ├── animations/     # Animation utilities
-│       ├── common/         # Shared components (Button, Toast, ErrorBoundary, etc.)
-│       └── forms/          # Form components
-├── constants/              # Application data and configuration
-├── contexts/              # React contexts (theme, etc.)
-├── hooks/                 # Custom React hooks
-├── utils/                 # Utility functions (accessibility, typography, etc.)
-└── assets/               # Static assets and images
-```
+**Senior Undergraduate Student** at Sreenidhi Institute Of Science and Technology, specializing in **AI & ML** with a strong academic record (CPI: 9.64). Passionate about data science, machine learning, and building innovative solutions.
 
-### **Clean Import Patterns**
-```javascript
-// Unified component imports
-import { Hero, Projects, Experience } from '../components';
+### 🏆 **Key Achievements**
+- **Finalist at AI Hack Day** - Recognized for impactful AI innovation at Tech Mahindra's AI Days
+- **Hackathon Success** - Competed in Hackprix Hackathon Season 1 & 2, showcasing rapid full-stack development
+- **Academic Excellence** - Perfect 10.0 GPA in SSC, 9.89 GPA in Intermediate
+- **Community Contributor** - Regular LinkedIn contributor documenting AI/ML projects and learnings
 
-// Organized constants
-import { HERO_CONTENT, PROJECTS, SKILLS_DATA } from '../constants';
+### 🛠️ **Technical Expertise**
+- **Programming:** Python, Java, C, JavaScript
+- **AI/ML:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit
+- **Web Development:** HTML, CSS, React, Express, MERN Stack
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
-// Custom hooks
-import { useTypingAnimation, useScrollAnimation } from '../hooks';
-```
+### 🚀 **Featured Projects**
+- **CIVIGUARD** - AI-Powered Civic Alert Platform with Google Maps integration
+- **Music Genre Predictor** - ML model using Decision Trees and Graphviz visualization
+- **Nutrition Tracker** - MERN app with Gemini API integration and Chart.js
+- **Finance Tracker** - Streamlit dashboard for expense analysis and visualization
 
 ---
 
-## 🎯 Development Phases
+## 📱 Contact Information
 
-### **Phase 1-3: Foundation** ✅
-- Hero animations and typing effects
-- 3D project cards with interactive previews
-- Theme system with localStorage persistence
-
-### **Phase 4: Advanced Interactions** ✅
-- Live demo previews with smart project detection
-- GitHub activity integration
-- Professional contact forms
-- Scroll-triggered animations
-
-### **Phase 5: Modern Polish** ✅
-- Complete Experience section redesign
-- Enhanced Project and Reference sections
-- Modern Navbar with active indicators
-- Hero section grid layout overhaul
-
-### **Phase 6: Code Architecture** ✅
-- Comprehensive component restructuring
-- Logical folder organization
-- Import path optimization
-- Documentation and cleanup
-
-### **Phase 7: Portfolio Polish** ✅
-- Enhanced accessibility with WCAG AA compliance
-- Advanced micro-interactions and toast notifications
-- Error boundaries and graceful failure handling
-- Unified typography system across all themes
-- Keyboard navigation with shortcuts (Alt+H/A/P/E/S/C)
-- Theme-aware focus management and loading states
-
-### **AI Assistant Integration** ✅
-- Hugging Face Spaces chatbot integration with secure iframe embedding
-- Dual access via dedicated section and project card
-- Theme-aware design with modern animations and micro-interactions
-- Enhanced UX with feature grids, shine effects, and staggered animations
-- Mobile-first responsive design with touch optimization
-- Keyboard shortcut (Alt+A) and floating navigation integration
-
----
-
-## 📈 Performance Optimizations
-
-### **Loading & Bundle**
-- **Code Splitting:** React.lazy() for route-level splitting
-- **Tree Shaking:** Optimized imports and unused code elimination
-- **Asset Optimization:** WebP images and lazy loading
-- **Bundle Analysis:** Minimal dependencies and optimized chunks
-
-### **Runtime Performance**
-- **Memoization:** React.memo and useMemo for expensive operations
-- **Efficient Animations:** Framer Motion with transform optimizations
-- **Scroll Performance:** Intersection Observer for scroll-based animations
-- **State Management:** Optimized context usage and local state
-
----
-
-## 🔧 Customization Guide
-
-### **Adding New Sections**
-1. Create component in `src/components/sections/YourSection/`
-2. Add data constants in `src/constants/yourSection.js`
-3. Import and add to `src/App.jsx`
-4. Update navigation in `SECTION_LINKS`
-
-### **Modifying Content**
-- **Personal Info:** Update `src/constants/constants.js`
-- **Projects:** Modify `src/constants/projects.js`
-- **Experience:** Edit `src/constants/experiences.js`
-- **Skills:** Update `src/constants/skills.js`
-
-### **Theme Customization**
-- **Colors:** Modify theme definitions in `src/contexts/ThemeContext.jsx`
-- **Styling:** Update Tailwind configuration in `tailwind.config.js`
-- **Animations:** Customize motion variants in component animation files
-
----
-
-## 📋 Scripts
-
-```bash
-npm run dev          # Start development server
-npm run build        # Build for production
-npm run preview      # Preview production build
-npm run lint         # Run ESLint
-npm run lint:fix     # Fix ESLint issues
-```
-
----
-
-## 🤝 Contributing
-
-### **Development Workflow**
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Follow the existing component structure and patterns
-4. Ensure all imports use the organized folder structure
-5. Test your changes with `npm run build`
-6. Commit with clear messages: `git commit -m "feat: add your feature"`
-7. Push and create a Pull Request
-
-### **Code Standards**
-- Follow the established folder organization
-- Use TypeScript-compatible patterns
-- Maintain component documentation
-- Ensure responsive design
-- Test across different themes
-
----
-
-## 📚 Documentation
-
-Comprehensive development documentation is available in the `docs/claude-development/` folder:
-
-- **[Project Structure Guide](./docs/claude-development/PROJECT_STRUCTURE.md)** - Complete architecture overview
-- **[Development Logs](./docs/claude-development/)** - Detailed daily progress and phase implementations
-- **[Claude Integration](./docs/claude-development/CLAUDE.md)** - AI-assisted development setup
+- **Email:** snehauppula@gmail.com
+- **Phone:** +91-7981833625
+- **LinkedIn:** [snehauppula](https://linkedin.com/in/snehauppula)
+- **GitHub:** [snehauppula](https://github.com/snehauppula)
+- **Location:** Hyderabad, India
 
 ---
 
 ## 📄 License
 
-[MIT License](LICENSE) - Feel free to use this project for your own portfolio!
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
+## 🤝 Contributing
 
-**Yuelin Liu** - Full Stack Developer & AI Engineer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/liuyuelintop)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/liuyuelintop)
-[![Blog](https://img.shields.io/badge/Blog-Read-orange?style=flat-square&logo=hashnode)](https://blog.liuyuelin.dev/)
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## ⭐ Support
-
-If this project helped you create an amazing portfolio, please:
-
-1. ⭐ **Star this repository**
-2. 🍴 **Fork it for your own use**
-3. 📢 **Share it with others**
-4. 🐛 **Report any issues**
-
-> **Built with ❤️ using React, Tailwind CSS, and Claude Code assistance**
+*Built with ❤️ by Sneha Uppula using React, Vite, and Tailwind CSS*

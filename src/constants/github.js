@@ -1,14 +1,14 @@
 // GitHub configuration
 export const GITHUB_CONFIG = {
-  username: 'liuyuelintop',
+  username: 'snehauppula',
   
   // Repository highlights (will be used for future features)
   featuredRepos: [
-    'react-portfolio',
-    'melb-uni-ultimate', 
-    'apeuni-fib-extractor-monorepo',
-    'next-code-craft',
-    'remote-interview-platform'
+    'civiguard-ai-platform',
+    'music-genre-predictor',
+    'nutrition-tracker-gemini',
+    'finance-tracker-streamlit',
+    'ai-content-channel'
   ],
   
   // Activity refresh interval (in milliseconds)

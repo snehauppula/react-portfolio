@@ -1,29 +1,29 @@
 export const REFERENCES = [
   {
-    name: "Fucai Ke",
-    title: "Assistant Lecturer",
-    company: "Monash University",
+    name: "Dr. [Professor Name]",
+    title: "Assistant Professor",
+    company: "Sreenidhi Institute Of Science and Technology",
     quote:
-      "Yuelin brings strong full-stack engineering skills and clear communication to the table. I’ve seen him balance technical depth with rapid prototyping — especially in fast-changing environments where clarity and speed are essential. He’s the kind of engineer who makes those around him better.",
-    image: "https://media.licdn.com/dms/image/v2/C5603AQFXdbotsahS-w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1634621377888?e=1755734400&v=beta&t=jV_AY1ngTha5YW06jNChEgyo9xDxmAK0rHQfFNPh6Uc",
-    linkedIn: "https://www.linkedin.com/in/fucai-ke-202031224/",
+      "Sneha demonstrates exceptional aptitude in AI and Machine Learning concepts. Her projects showcase innovative problem-solving skills and a deep understanding of data science principles. She consistently delivers high-quality work and shows great potential in the field of artificial intelligence.",
+    image: "https://via.placeholder.com/400x400/6366f1/ffffff?text=Prof",
+    linkedIn: "#",
   },
   {
-    name: "Helen Zhou",
-    title: "CERC Research Fellow",
-    company: "CSIRO Data61",
+    name: "Hackathon Mentor",
+    title: "Tech Lead",
+    company: "CodeWave Hub",
     quote:
-      "Yuelin is proactive, detail-oriented, and combines a strong product mindset with engineering precision. I’ve been consistently impressed by how fast he absorbs complex systems and turns feedback into tangible improvements. He adds value from day one.",
-    image: "https://media.licdn.com/dms/image/v2/D5603AQHFBSIZ8TDw8w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711604877262?e=1755734400&v=beta&t=aKA0QQNnUSaRYpfEy0hc3NlX9DwJOnXujDM0dxh0LVw",
-    linkedIn: "https://www.linkedin.com/in/jingwen-%EF%BC%88helen%EF%BC%89-zhou/",
+      "Sneha's performance in hackathons has been outstanding. She quickly adapts to new technologies and demonstrates strong full-stack development skills. Her AI-powered projects show creativity and technical depth, making her a valuable team member in competitive environments.",
+    image: "https://via.placeholder.com/400x400/10b981/ffffff?text=Mentor",
+    linkedIn: "#",
   },
   {
-    name: "Kelvin (Yit Hong) Choo",
-    title: "Research Fellow",
-    company: "Deakin University",
+    name: "AI Community Leader",
+    title: "Content Creator",
+    company: "AI Enthusiasts Network",
     quote:
-      "Yuelin demonstrates a rare balance of technical rigour and engineering intuition. In research projects where requirements evolved quickly, he stayed adaptive, wrote reliable code, and always communicated clearly. He’s a dependable problem-solver across any domain.",
-    image: "https://media.licdn.com/dms/image/v2/D5603AQFaRsgz2HGQaw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1698386936398?e=1755734400&v=beta&t=53tiFdI3f3V-_n2hA7QYytCbrSMpEUWiYjCY-CBoSrE",
-    linkedIn: "https://www.linkedin.com/in/kelvinchoo-iisri/",
+      "Sneha's contributions to the AI community through her content creation and project sharing are impressive. She has a natural ability to explain complex concepts clearly and her passion for AI/ML is evident in her work. She's a rising star in the field.",
+    image: "https://via.placeholder.com/400x400/8b5cf6/ffffff?text=Leader",
+    linkedIn: "#",
   },
 ];

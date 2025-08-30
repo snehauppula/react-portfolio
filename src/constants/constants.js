@@ -1,29 +1,29 @@
 export const HERO_CONTENT = {
-  name: "Yuelin Liu",
+  name: "Sneha Uppula",
   roles: [
+    "AI & ML Student",
+    "Data Science Enthusiast",
     "Full Stack Developer",
-    "AI Engineer",
-    "React Specialist",
-    "Product Builder"
+    "Hackathon Winner"
   ],
-  summary: `Builder of robust SaaS products, clean code, and scalable APIs. At ByteCronix, I shipped real-world AI/PR features across microservices, infra, and UI. I thrive in ambiguity and deliver high-velocity results—frontend to backend, infra to UI polish.`,
+  summary: `Passionate AI/ML student with a strong foundation in data science and web development. Currently pursuing B.Tech in Computer Science with AI & ML specialization at SNIST. Actively participating in hackathons, building innovative projects, and contributing to the AI community through content creation and knowledge sharing.`,
   highlights: [
-  "Modern React/Next.js",
-  "Cloud & CI/CD Automation",
-  "AI Engineering (learning)",
-  "LangChain & RAG",
-  "LLM Product Integrations",
-  "Vector DB Search (Pinecone, Weaviate)",
-],
+    "Python & Machine Learning",
+    "Data Analysis & Visualization",
+    "Web Development (MERN)",
+    "AI/ML Project Development",
+    "Hackathon Competitions",
+    "Community Building & Content Creation",
+  ],
 };
 
 export const CONTACT = {
-  address: "464 Collins St, MEL, VIC 3000",
-  phoneNo: "+61 451 690 105",
-  email: "liuyuelintop@gmail.com",
+  address: "Sreenidhi Institute Of Science and Technology, Hyderabad, India",
+  phoneNo: "+91-7981833625",
+  email: "snehauppula@gmail.com",
   socials: {
-    linkedin: "https://linkedin.com/in/liuyuelintop",
-    github: "https://github.com/liuyuelintop",
-    blog: "https://blog.liuyuelin.dev/",
+    linkedin: "https://linkedin.com/in/snehauppula",
+    github: "https://github.com/snehauppula",
+    blog: "#", // Add blog URL when available
   },
 };
